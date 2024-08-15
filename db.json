@@ -1,0 +1,116 @@
+{
+    "animals": [
+        {
+            "name": "Bessie",
+            "species": "Cow"
+        },
+        {
+            "name": "Daisy",
+            "species": "Cow"
+        },
+        {
+            "name": "Megatron",
+            "species": "Cow"
+        },
+        {
+            "name": "Porky",
+            "species": "Pig"
+        },
+        {
+            "name": "Gerda",
+            "species": "Pig"
+        },
+        {
+            "name": "Chris P. Bacon",
+            "species": "Pig"
+        },
+        {
+            "name": "Cluckers",
+            "species": "Chicken"
+        },
+        {
+            "name": "Henrietta",
+            "species": "Chicken"
+        },
+        {
+            "name": "Nugget",
+            "species": "Chicken"
+        },
+        {
+            "name": "Feathers",
+            "species": "Chicken"
+        },
+        {
+            "name": "optimus",
+            "species": "chicken"
+        }
+    ],
+    "info": [
+        {
+            "name": "Bessie",
+            "species": "Cow",
+            "age": 5,
+            "gender": "Female"
+        },
+        {
+            "name": "Daisy",
+            "species": "Cow",
+            "age": 7,
+            "gender": "Female"
+        },
+        {
+            "name": "Megatron",
+            "species": "Cow",
+            "age": 2,
+            "gender": "Male"
+        },
+        {
+            "name": "Porky",
+            "species": "Pig",
+            "age": 7,
+            "gender": "Male"
+        },
+        {
+            "name": "Gerda",
+            "species": "Pig",
+            "age": 5,
+            "gender": "Female"
+        },
+        {
+            "name": "Chris P. Bacon",
+            "species": "Pig",
+            "age": 6,
+            "gender": "Male"
+        },
+        {
+            "name": "Cluckers",
+            "species": "Chicken",
+            "age": 3,
+            "gender": "Female"
+        },
+        {
+            "name": "Henrietta",
+            "species": "Chicken",
+            "age": 2,
+            "gender": "Female"
+        },
+        {
+            "name": "Nugget",
+            "species": "Chicken",
+            "age": 8,
+            "gender": "Male"
+        },
+        {
+            "name": "Feathers",
+            "species": "Chicken",
+            "age": 4,
+            "gender": "Male"
+        },
+        {
+            "name": "optimus",
+            "species": "chicken",
+            "age": 15,
+            "gender": "male"
+        }
+    ]
+}
